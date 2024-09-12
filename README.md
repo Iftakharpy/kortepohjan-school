@@ -1,4 +1,4 @@
-# Introduction for the [technological documentation site](https://iftakharpy.github.io/kortepohjan-school/) for [Kortepohja Kindergarten School](https://peda.net/jyvaskyla/kortepohjanpaivakotikoulu)
+# Introduction to the [technological documentation site](https://iftakharpy.github.io/kortepohjan-school/) for [Kortepohja Kindergarten School](https://peda.net/jyvaskyla/kortepohjanpaivakotikoulu)
 
 This static site made with hugo and the relearn theme will be used to document some of the technologies available in Kortepohja's Kindergarten School. The goals are:
 
