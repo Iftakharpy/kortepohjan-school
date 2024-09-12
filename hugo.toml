@@ -1,9 +1,0 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = "Kortepohja Kindergarten School"
-theme = 'hugo-theme-relearn'
-
-[outputs]
-  home = ['html', 'rss', 'search', 'searchpage']
-  page = ['html', 'rss', 'print']
-  section = ['html', 'rss', 'print']
