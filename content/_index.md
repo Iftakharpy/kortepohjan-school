@@ -16,5 +16,5 @@ This site will be used to document some of the technologies available in Kortepo
 
 -   The users will be able to learn about the technologies on their own when they need.
 -   They will be able to troubleshoot common problems easily on their own.
--   If they need help with the specific technologies they can find contacts to the people who are already familiar with the technologies.
 -   Where to find each of the documented technologies at the school.
+-   If they need help with the specific technologies they can find contacts to the people who are already familiar with the technologies.
