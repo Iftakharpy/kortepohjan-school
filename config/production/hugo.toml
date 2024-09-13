@@ -1,1 +1,4 @@
+# broken styles due to minification?
+# test the production build locally with the following command and live server
+# hugo --minify -e production --baseURL https://example.com/public/
 baseURL = 'https://iftakharpy.github.io/kortepohjan-school/'
