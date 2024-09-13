@@ -6,7 +6,7 @@
 # Like `baseURL = "https://example.com/"`. Domain can be anything.
 # This is only for local development. For production, the baseURL should
 # have the additional path in the end for github pages sites
-baseURL = 'https://iftakharpy.github.io/'
+# baseURL = 'https://iftakharpy.github.io/'
 languageCode = 'en-us'
 title = "Kortepohja Kindergarten School"
 theme = 'hugo-theme-relearn'
