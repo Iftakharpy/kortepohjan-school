@@ -9,18 +9,18 @@
 		justify-content: center;
 		
 		
-		& :is(img, svg){
-			display: inline;
-			border-radius: 10%;
-			aspect-ratio: 1;
-			height: 5rem;
-			outline: 2px solid var(--text-color);
-			box-shadow: 0 0 8px 1px var(--text-color);
-		}
-		
-		& span{
-			color: inherit !important;
-		}
+	}
+	a#R-logo :is(img, svg){
+		display: inline;
+		border-radius: 10%;
+		aspect-ratio: 1;
+		height: 5rem;
+		outline: 2px solid var(--text-color);
+		box-shadow: 0 0 8px 1px var(--text-color);
+	}
+	
+	a#R-logo span{
+		color: inherit !important;
 	}
 
 	a#R-logo:hover {
@@ -28,11 +28,13 @@
 	}
 
 	@media (width < 960px){
-		a#R-logo{
+		a#R-logo {
 			font-size: 1.2rem;
-			& img{
-				height: 4rem;
-			}
+
+		}
+		
+		a#R-logo img{
+			height: 4rem;
 		}
 	}
 </style>
