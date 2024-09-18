@@ -1,1 +1,2 @@
 {{ if and (eq .Params.archetype "chapter") (not .Params.hide_menu_count) }}<b style="font-weight: 200; padding-left: .3rem; text-align: left; width: 1.1rem;">{{ .Params.weight }}.</b> {{ end }}
+{{if .Params.under_construction}}🚧{{ end }}
