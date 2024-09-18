@@ -10,6 +10,7 @@ baseURL = 'https://iftakharpy.github.io/'
 languageCode = 'en-us'
 title = "Kortepohja Kindergarten School"
 theme = 'hugo-theme-relearn'
+ordersectionsby = "weight"
 
 [outputs]
   home = ['html', 'rss', 'search', 'searchpage']

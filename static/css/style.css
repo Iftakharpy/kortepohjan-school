@@ -1,0 +1,9 @@
+/* 
+    Custom styles for the site. These are according to my preference,
+    in my opinion, the site looks better or improves accessibility.
+ */
+iframe {
+    aspect-ratio: 16/9;
+    width: 100%;
+    max-height: 55dvh;
+}
