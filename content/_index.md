@@ -6,7 +6,7 @@ draft = false
 
 {{<raw-html>}}
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1175.6882700058209!2d25.70940965726818!3d62.24976191251446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46857432fe2fdde1%3A0x20847162459f2ddf!2sKortepohja%20Library!5e1!3m2!1sen!2sfi!4v1726137389145!5m2!1sen!2sfi" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1175.6882700058209!2d25.70940965726818!3d62.24976191251446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46857432fe2fdde1%3A0x20847162459f2ddf!2sKortepohja%20Library!5e1!3m2!1sen!2sfi!4v1726137389145!5m2!1sen!2sfi" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 {{</raw-html>}}
 
