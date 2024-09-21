@@ -27,22 +27,3 @@ There are different chapters for different kind of technologies. As a user of th
 
 > [!TIP]
 > It will come in handy if you know the [youtube player shortcuts](https://support.google.com/youtube/answer/7631406?hl=en).
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!INFO]
-> Information that users <ins>_might_</ins> find interesting.
-
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
