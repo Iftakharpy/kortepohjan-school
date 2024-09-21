@@ -1,0 +1,8 @@
+{{ $globPattern := .Get 0 }}
+{{ $files := resources.Match $globPattern }}
+
+<ol>
+    {{ range $files }}
+        <li><a href="{{ .RelPermalink }}" target="_blank">{{ .Name | replaceRE "/?.*/" "" | humanize }}</a></li>
+    {{ end }}
+</ol>
