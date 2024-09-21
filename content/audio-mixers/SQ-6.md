@@ -15,6 +15,8 @@ If you haven't already read the [Basics of Mixing](pdfs/mixers/basics_of_mixing.
 
 ## Video materials
 
+If you have already watched the first playlist from [Qu-16 section](Qu-16.md) then learning SQ-6 should be quite easy.
+
 - This playlist from [Audio Logic Systems](https://www.youtube.com/@audiologicsystems6132) covers the functionality of SQ-6. After watching this you should feel right at home with SQ-6. Duration is `2 hours 31 minutes`.
 {{< yt playlist="PLA8sdDsEjmp2fZ3e7OjUDGqztpsV0UWAy" >}}
 - This playlist from [AllenandHeathUK](https://www.youtube.com/@AllenandHeathUK) teaches all about SQ and its features and capabilities. Duration is about `47 minutes`.
