@@ -20,6 +20,6 @@ This site will be used to document some of the technologies available in Kortepo
 -   If they need help with the specific technologies they can find contacts to the people who are already familiar with the technologies.
 
 
-## Information about the Chapters
+## Info about the Chapters and the sections
 
 There are different chapters for different kind of technologies. As a user of those devices you can read about those in any order you like. But the sections in those chapters are organized in the recommended order. If you already know about some/all of the topics in the chapter you are reading or the sections/subsections you can skip that too. For the videos you can customize the playback speed as you please.

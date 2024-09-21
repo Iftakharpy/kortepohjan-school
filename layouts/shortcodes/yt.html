@@ -1,0 +1,24 @@
+{{ $videoID := .Get "video" }}
+{{ $playlistID := .Get "playlist" }}
+
+{{ if $playlistID }}
+    <iframe
+        src="https://www.youtube-nocookie.com/embed/videoseries?list={{ $playlistID }}"
+        title="YouTube Playlist"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="no-referrer"
+        allowfullscreen>
+    </iframe>
+{{ else if $videoID }}
+    <iframe
+        src="https://www.youtube-nocookie.com/embed/{{ $videoID }}"
+        title="YouTube Video"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="no-referrer"
+        allowfullscreen>
+    </iframe>
+{{ else }}
+    <p>No video or playlist ID provided.</p>
+{{ end }}
